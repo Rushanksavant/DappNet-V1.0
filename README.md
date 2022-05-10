@@ -1,8 +1,8 @@
 # DappNet V1.0
-Application link - https://dappnet-v1.netlify.app/
-Contracts deployed on Ropsten test-net:
-	- Post-> 0xCC11252eccB8141616099cC8adb9868927dE9cB6
-	- Profile-> 0xc6f2A25E1EF3A946e1C8567b9D3Ec9177eC6f977
+Application link - https://dappnet-v1.netlify.app/ <br>
+Contracts deployed on Ropsten test-net:<br>
+- Post-> 0xCC11252eccB8141616099cC8adb9868927dE9cB6
+- Profile-> 0xc6f2A25E1EF3A946e1C8567b9D3Ec9177eC6f977
 
 ## Features:
 - Make a profile on network to create post, like/comment on other's post. Profile requires name, bio and profile image (all needed).
