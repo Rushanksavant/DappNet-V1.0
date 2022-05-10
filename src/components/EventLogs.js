@@ -9,7 +9,6 @@ import {
 
 import Post from "../artifacts/contracts/Post.sol/Post.json";
 import Profile from "../artifacts/contracts/Profile.sol/Profile.json";
-import { GroundOverlay } from '@react-google-maps/api';
 
 export default function UserActivity() {
 
