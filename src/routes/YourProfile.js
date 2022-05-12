@@ -121,7 +121,9 @@ export default function ProfilePage() {
 
     // to get all the information related to post
     async function getPostsInfo() {
-        const provider = new ethers.providers.JsonRpcProvider()
+        const web3Modal = new Web3Modal()
+        const connection = await web3Modal.connect()
+        const provider = new ethers.providers.Web3Provider(connection)
         const Post_contract = new ethers.Contract(PostAddress, Post.abi, provider)
         const Profile_contract = new ethers.Contract(ProfileAddress, Profile.abi, provider)
 
