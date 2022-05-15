@@ -10,7 +10,7 @@ Contracts deployed on Ropsten test-net:<br>
 per address.
 - Create a post with image and caption. Others can comment and like on your post. You can delete anyone's comment you dont want on your post.
 - Owner of DappNet (me) can delete posts and comments on anyone's post if inappropriate content is posted.
-- View your activity, Posts created/deleted, Posts liked/cancle liked, Comment you posted/deleted on any post in "Your Activity".
+- View your activity, Posts created/deleted, Posts liked/cancel liked, Comment you posted/deleted on any post in "Your Activity".
 
 ## Limitation:
 - Responsiveness of the application.
